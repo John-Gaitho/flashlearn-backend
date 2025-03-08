@@ -29,7 +29,7 @@ FlashLearn is a RESTful API built using Flask for managing decks, flashcards, us
 
 ```sh
 # Clone the repository
-git clone https://github.com/kabakadev/flashlearn-backend.git
+git clone https://github.com/John-Gaitho/flashlearn-backend.git
 
 # Navigate into the repository
 cd flashlearn-backend
